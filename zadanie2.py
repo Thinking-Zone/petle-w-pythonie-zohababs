@@ -1,2 +1,2 @@
-for liczby in range(0,9999):
+for liczby in range(0,10000):
     print(liczby)
